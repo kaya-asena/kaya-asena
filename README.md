@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/kaya-asena">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaya-asena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaya-asena&show_icons=true&theme=jollyt&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaya-asena&layout=compact&langs_count=6&theme=jolly"/>
 
 </div>
