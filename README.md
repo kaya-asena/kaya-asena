@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Kaya Asena 😁
+## Bem-vindo(a) ao perfil da Kaya Asena 😁
 
  <div>
    <a href="https://github.com/kaya-asena">
